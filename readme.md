@@ -50,6 +50,14 @@
 - [Vexu/routez](https://github.com/Vexu/routez) Http server for Zig
 - [Vexu/zuri](https://github.com/Vexu/zuri) URI parser for Zig
 
+## Parser
+- [benjif/zig-stl](https://github.com/benjif/zig-stl) STL file parser in Zig
+- [darithorn/zig-toml](https://github.com/darithorn/zig-toml) A TOML parser written in Zig
+- [goto-bus-stop/ziguid](https://github.com/goto-bus-stop/ziguid) GUID parsing/stringifying with zig
+- [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) Simple command line argument parsing library
+- [winksaville/zig-parse-args](https://github.com/winksaville/zig-parse-args) Parse command line arguments.
+- [winksaville/zig-parse-number](https://github.com/winksaville/zig-parse-number) Implement ParseNumber which can parse any TypeId.Int or TypeId.Float.
+
 ## Web
 - [andrewrk/lua-in-the-browser](https://github.com/andrewrk/lua-in-the-browser) using zig to build lua for webassembly
 - [fengb/fundude](https://github.com/fengb/fundude) Gameboy emulator: Zig -> wasm
