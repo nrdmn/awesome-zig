@@ -46,6 +46,7 @@
 - [tiehuis/zig-sdl2](https://github.com/tiehuis/zig-sdl2) SDL2 bindings for Zig
 
 ## Network
+- [connectFree/ZigZag](https://github.com/connectFree/ZigZag) Noise Framework implementation in Zig Language for use in EVER/IP and WireGuard
 - [euantorano/ip.zig](https://github.com/euantorano/ip.zig) A Zig library for working with IP Addresses
 - [Vexu/routez](https://github.com/Vexu/routez) Http server for Zig
 - [Vexu/zuri](https://github.com/Vexu/zuri) URI parser for Zig
