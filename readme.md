@@ -38,9 +38,9 @@
 - [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig)
 
 ## GUI
-- [dbandstra/zig-pcx](https://github.com/dbandstra/zig-pcx) Load and save PCX images in Zig
 - [andrewrk/zig-sdl](https://github.com/andrewrk/zig-sdl) self-contained SDL2 package for Zig
 - [andrewrk/zig-vulkan-triangle](https://github.com/andrewrk/zig-vulkan-triangle) simple triangle displayed using vulkan, glfw, and zig
+- [dbandstra/zig-pcx](https://github.com/dbandstra/zig-pcx) Load and save PCX images in Zig
 - [Nelarius/weekend-raytracer-zig](https://github.com/Nelarius/weekend-raytracer-zig) A Zig implementation of the "Ray Tracing in One Weekend" book
 - [tiehuis/zig-raytrace](https://github.com/tiehuis/zig-raytrace) simple raytracer in zig
 - [tiehuis/zig-sdl2](https://github.com/tiehuis/zig-sdl2) SDL2 bindings for Zig
