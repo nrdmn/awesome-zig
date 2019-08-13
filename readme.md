@@ -73,6 +73,11 @@
 - [Vexu/routez](https://github.com/Vexu/routez) Http server for Zig
 - [Vexu/zuri](https://github.com/Vexu/zuri) URI parser for Zig
 
+## Other
+- [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) Zootdeck Fediverse GTK Desktop Reader
+- [Hejsil/zig-gc](https://github.com/Hejsil/zig-gc) A super simple mark-and-sweep garbage collector written in Zig.
+- [kristoff-it/redis-cuckoofilter](https://github.com/kristoff-it/redis-cuckoofilter) Hashing-function agnostic Cuckoo filters for Redis
+
 ## Parser
 - [benjif/zig-stl](https://github.com/benjif/zig-stl) STL file parser in Zig
 - [darithorn/zig-toml](https://github.com/darithorn/zig-toml) A TOML parser written in Zig
