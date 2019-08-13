@@ -48,6 +48,7 @@
 - [thejoshwolfe/legend-of-swarkland](https://github.com/thejoshwolfe/legend-of-swarkland) Hack-n-slash roguelike inspired by NetHack
 - [tiehuis/zig-gameboy](https://github.com/tiehuis/zig-gameboy) A gameboy emulator in zig
 - [tiehuis/zstack](https://github.com/tiehuis/zstack) Line-race tetris mode in Zig
+- [TM35-Metronome/tm35-nds](https://github.com/TM35-Metronome/tm35-nds) A library for working with Nintendo DS roms
 - [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig)
 
 ## GUI
