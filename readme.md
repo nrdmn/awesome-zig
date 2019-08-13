@@ -1,5 +1,11 @@
 # Awesome Zig
 
+## Algorithms and data structures
+- [BarabasGitHub/LZig4](https://github.com/BarabasGitHub/LZig4) Implementing lz4 in zig.
+- [emekoi/deque.zig](https://github.com/emekoi/deque.zig) a lock free chase-lev deque for zig
+- [kristoff-it/zig-cuckoofilter](https://github.com/kristoff-it/zig-cuckoofilter) Production-ready Cuckoo Filters for any C ABI compatible target.
+- [marijnfs/zigtimsort](https://github.com/marijnfs/zigtimsort) TimSort implementation for Zig
+
 ## Allocators
 - [andrewrk/zig-general-purpose-allocator](https://github.com/andrewrk/zig-general-purpose-allocator) work-in-progress general purpose allocator intended to be eventually merged into Zig standard library. live streamed development
 - [fengb/zee_alloc](https://github.com/fengb/zee_alloc) tiny Zig allocator primarily targeting WebAssembly
