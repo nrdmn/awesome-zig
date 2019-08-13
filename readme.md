@@ -33,6 +33,7 @@
 - [andrewrk/tetris](https://github.com/andrewrk/tetris) A simple tetris clone written in zig programming language.
 - [dbandstra/oxid](https://github.com/dbandstra/oxid) Arcade style game written in Zig
 - [fengb/fundude](https://github.com/fengb/fundude) Gameboy emulator: Zig -> wasm
+- [isaachier/gbemu](https://github.com/isaachier/gbemu) Zig Game Boy emulator
 - [thejoshwolfe/legend-of-swarkland](https://github.com/thejoshwolfe/legend-of-swarkland) Hack-n-slash roguelike inspired by NetHack
 - [tiehuis/zig-gameboy](https://github.com/tiehuis/zig-gameboy) A gameboy emulator in zig
 - [tiehuis/zstack](https://github.com/tiehuis/zstack) Line-race tetris mode in Zig
