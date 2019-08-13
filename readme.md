@@ -6,6 +6,9 @@
 - [mdsteele/ziegfried](https://github.com/mdsteele/ziegfried) A general-purpose memory allocator for Zig
 - [suirad/Seal](https://github.com/suirad/Seal) An allocator that wraps another allocator and detects if memory is leaked after usage
 
+## Audio
+- [dbandstra/zang](https://github.com/dbandstra/zang) Audio synthesis for Zig
+
 ## Bootables
 - [AndreaOrru/zen](https://github.com/AndreaOrru/zen) Experimental operating system written in Zig
 - [andrewrk/clashos](https://github.com/andrewrk/clashos) multiplayer arcade game for bare metal Raspberry Pi 3 B+
