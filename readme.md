@@ -2,7 +2,7 @@
 
 ## Allocators
 - [andrewrk/zig-general-purpose-allocator](https://github.com/andrewrk/zig-general-purpose-allocator) work-in-progress general purpose allocator intended to be eventually merged into Zig standard library. live streamed development
-- [fengb/zee_alloc](https://github.com/fengb/zee_alloc) Zig wee allocator
+- [fengb/zee_alloc](https://github.com/fengb/zee_alloc) tiny Zig allocator primarily targeting WebAssembly
 - [mdsteele/ziegfried](https://github.com/mdsteele/ziegfried) A general-purpose memory allocator for Zig
 - [suirad/Seal](https://github.com/suirad/Seal) An allocator that wraps another allocator and detects if memory is leaked after usage
 
@@ -64,7 +64,7 @@
 ## Web
 - [andrewrk/lua-in-the-browser](https://github.com/andrewrk/lua-in-the-browser) using zig to build lua for webassembly
 - [fengb/fundude](https://github.com/fengb/fundude) Gameboy emulator: Zig -> wasm
-- [fengb/zee_alloc](https://github.com/fengb/zee_alloc) Zig wee allocator
+- [fengb/zee_alloc](https://github.com/fengb/zee_alloc) tiny Zig allocator primarily targeting WebAssembly
 - [meheleventyone/zig-wasm-test](https://github.com/meheleventyone/zig-wasm-test) A minimal Web Assembly example using Zig's build system.
 - [shritesh/zig-wasm-dom](https://github.com/shritesh/zig-wasm-dom) Zig + WebAssembly + JS + DOM
 - [shritesh/zigfmt-web](https://github.com/shritesh/zigfmt-web) zig fmt on the web
