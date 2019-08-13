@@ -78,6 +78,7 @@
 - [goto-bus-stop/ziguid](https://github.com/goto-bus-stop/ziguid) GUID parsing/stringifying with zig
 - [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) Simple command line argument parsing library
 - [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) A regex implementation for the zig programming language
+- [tiehuis/zig-ryu](https://github.com/tiehuis/zig-ryu) Zig port of https://github.com/ulfjack/ryu
 - [Vexu/zuri](https://github.com/Vexu/zuri) URI parser for Zig
 - [winksaville/zig-parse-args](https://github.com/winksaville/zig-parse-args) Parse command line arguments.
 - [winksaville/zig-parse-number](https://github.com/winksaville/zig-parse-number) Implement ParseNumber which can parse any TypeId.Int or TypeId.Float.
