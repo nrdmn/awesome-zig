@@ -60,6 +60,11 @@
 - [tiehuis/zig-raytrace](https://github.com/tiehuis/zig-raytrace) simple raytracer in zig
 - [tiehuis/zig-sdl2](https://github.com/tiehuis/zig-sdl2) SDL2 bindings for Zig
 
+## Misc libraries
+- [BraedonWooding/Lazy-Zig](https://github.com/BraedonWooding/Lazy-Zig) Linq in Zig
+- [emekoi/log.zig](https://github.com/emekoi/log.zig) a thread-safe logging library for zig.
+- [gernest/time](https://github.com/gernest/time)
+
 ## Network
 - [connectFree/ZigZag](https://github.com/connectFree/ZigZag) Noise Framework implementation in Zig Language for use in EVER/IP and WireGuard
 - [euantorano/ip.zig](https://github.com/euantorano/ip.zig) A Zig library for working with IP Addresses
