@@ -28,6 +28,7 @@
 - [ziglang/zig.vim](https://github.com/ziglang/zig.vim) Vim configuration for Zig
 
 ## Games
+- [Akuli/curses-minesweeper](https://github.com/Akuli/curses-minesweeper) Minesweeper game written in curses with zig
 - [andrewrk/clashos](https://github.com/andrewrk/clashos) multiplayer arcade game for bare metal Raspberry Pi 3 B+
 - [andrewrk/tetris](https://github.com/andrewrk/tetris) A simple tetris clone written in zig programming language.
 - [dbandstra/oxid](https://github.com/dbandstra/oxid) Arcade style game written in Zig
