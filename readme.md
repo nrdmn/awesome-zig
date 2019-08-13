@@ -43,6 +43,7 @@
 - [andrewrk/clashos](https://github.com/andrewrk/clashos) multiplayer arcade game for bare metal Raspberry Pi 3 B+
 - [andrewrk/tetris](https://github.com/andrewrk/tetris) A simple tetris clone written in zig programming language.
 - [dbandstra/oxid](https://github.com/dbandstra/oxid) Arcade style game written in Zig
+- [emekoi/ziglet](https://github.com/emekoi/ziglet) a small zig game library
 - [fengb/fundude](https://github.com/fengb/fundude) Gameboy emulator: Zig -> wasm
 - [isaachier/gbemu](https://github.com/isaachier/gbemu) Zig Game Boy emulator
 - [thejoshwolfe/legend-of-swarkland](https://github.com/thejoshwolfe/legend-of-swarkland) Hack-n-slash roguelike inspired by NetHack
