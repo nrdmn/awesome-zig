@@ -10,6 +10,7 @@
 
 ## Allocators
 - [andrewrk/zig-general-purpose-allocator](https://github.com/andrewrk/zig-general-purpose-allocator) work-in-progress general purpose allocator intended to be eventually merged into Zig standard library. live streamed development
+- [dbandstra/zig-hunk](https://github.com/dbandstra/zig-hunk)
 - [fengb/zee_alloc](https://github.com/fengb/zee_alloc) tiny Zig allocator primarily targeting WebAssembly
 - [mdsteele/ziegfried](https://github.com/mdsteele/ziegfried) A general-purpose memory allocator for Zig
 - [suirad/Seal](https://github.com/suirad/Seal) An allocator that wraps another allocator and detects if memory is leaked after usage
