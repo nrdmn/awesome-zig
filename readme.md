@@ -76,6 +76,7 @@
 
 ## Other
 - [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) Zootdeck Fediverse GTK Desktop Reader
+- [fengb/zig-protobuf](https://github.com/fengb/zig-protobuf)
 - [Hejsil/zig-gc](https://github.com/Hejsil/zig-gc) A super simple mark-and-sweep garbage collector written in Zig.
 - [kristoff-it/redis-cuckoofilter](https://github.com/kristoff-it/redis-cuckoofilter) Hashing-function agnostic Cuckoo filters for Redis
 - [MasterQ32/ZigPaint](https://github.com/MasterQ32/ZigPaint) A simple paint application written in Zig. Used to create an OpenGL loader/wrapper and a minimal UI system.
