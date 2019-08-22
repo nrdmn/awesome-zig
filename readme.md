@@ -10,7 +10,7 @@
 
 ## Allocators
 - [andrewrk/zig-general-purpose-allocator](https://github.com/andrewrk/zig-general-purpose-allocator) work-in-progress general purpose allocator intended to be eventually merged into Zig standard library. live streamed development
-- [dbandstra/zig-hunk](https://github.com/dbandstra/zig-hunk)
+- [dbandstra/zig-hunk](https://github.com/dbandstra/zig-hunk) Basic stack allocator for Zig
 - [fengb/zee_alloc](https://github.com/fengb/zee_alloc) tiny Zig allocator primarily targeting WebAssembly
 - [mdsteele/ziegfried](https://github.com/mdsteele/ziegfried) A general-purpose memory allocator for Zig
 - [suirad/Seal](https://github.com/suirad/Seal) An allocator that wraps another allocator and detects if memory is leaked after usage
@@ -23,7 +23,7 @@
 - [andrewrk/clashos](https://github.com/andrewrk/clashos) multiplayer arcade game for bare metal Raspberry Pi 3 B+
 - [andrewrk/HellOS](https://github.com/andrewrk/HellOS) "hello world" x86 kernel example
 - [iguessthislldo/georgios](https://github.com/iguessthislldo/georgios) Hobby Operating System
-- [jzck/kernel-zig](https://github.com/jzck/kernel-zig)
+- [jzck/kernel-zig](https://github.com/jzck/kernel-zig) 💾 hobby x86 kernel zig
 - [liampwll/zig-efi-os](https://github.com/liampwll/zig-efi-os)
 - [nrdmn/uefi-paint](https://github.com/nrdmn/uefi-paint) UEFI-bootable touch paint app
 - [SamTebbs33/pluto](https://github.com/SamTebbs33/pluto) A hobby x86 (x64, arm and aarch64 in the future) kernel written in Zig
@@ -32,7 +32,7 @@
 - [yvt/zig-armv8m-test](https://github.com/yvt/zig-armv8m-test) Example Zig-based app for Armv8-M + TrustZone
 
 ## Editor plugins
-- [ice1000/intellij-zig](https://github.com/ice1000/intellij-zig) The IntelliJ IDEA plugin for the Zig programming language
+- [ice1000/intellij-zig](https://github.com/ice1000/intellij-zig) The IntelliJ IDEA plugin for the Zig programming language ┗😃┛ ┏😃┓ ┗😃┛ ┏😃┓
 - [isaachier/ztags](https://github.com/isaachier/ztags) ctags implementation for Zig written in Zig
 - [Tetralux/sublime-zig](https://github.com/Tetralux/sublime-zig) My own, more lightweight, syntax highlighting for the Zig Programming Language.
 - [ziglang/sublime-zig-language](https://github.com/ziglang/sublime-zig-language) Zig language support for Sublime Text
