@@ -33,6 +33,7 @@
 
 ## Editor plugins
 - [ice1000/intellij-zig](https://github.com/ice1000/intellij-zig) The IntelliJ IDEA plugin for the Zig programming language
+- [isaachier/ztags](https://github.com/isaachier/ztags) ctags implementation for Zig written in Zig
 - [Tetralux/sublime-zig](https://github.com/Tetralux/sublime-zig) My own, more lightweight, syntax highlighting for the Zig Programming Language.
 - [ziglang/sublime-zig-language](https://github.com/ziglang/sublime-zig-language) Zig language support for Sublime Text
 - [ziglang/vscode-zig](https://github.com/ziglang/vscode-zig) Zig language support for VSCode
