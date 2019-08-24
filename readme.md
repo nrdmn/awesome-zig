@@ -56,6 +56,7 @@
 - [emekoi/ziglet](https://github.com/emekoi/ziglet) a small zig game library
 - [thejoshwolfe/legend-of-swarkland](https://github.com/thejoshwolfe/legend-of-swarkland) Hack-n-slash roguelike inspired by NetHack
 - [tiehuis/zstack](https://github.com/tiehuis/zstack) Line-race tetris mode in Zig
+- [TM35-Metronome/metronome](https://github.com/TM35-Metronome/metronome) A set of tools for modifying and randomizing Pokémon games
 - [TM35-Metronome/tm35-nds](https://github.com/TM35-Metronome/tm35-nds) A library for working with Nintendo DS roms
 - [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig)
 
