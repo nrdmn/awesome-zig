@@ -92,6 +92,7 @@
 ## Parser
 - [benjif/zig-stl](https://github.com/benjif/zig-stl) STL file parser in Zig
 - [darithorn/zig-toml](https://github.com/darithorn/zig-toml) A TOML parser written in Zig
+- [ducdetronquito/hppy](https://github.com/ducdetronquito/hppy) The happy HTML parser ᕕ( ᐛ )ᕗ
 - [goto-bus-stop/ziguid](https://github.com/goto-bus-stop/ziguid) GUID parsing/stringifying with zig
 - [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) Simple command line argument parsing library
 - [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) A regex implementation for the zig programming language
