@@ -67,6 +67,7 @@
 - [Nelarius/weekend-raytracer-zig](https://github.com/Nelarius/weekend-raytracer-zig) A Zig implementation of the "Ray Tracing in One Weekend" book
 - [tiehuis/zig-raytrace](https://github.com/tiehuis/zig-raytrace) simple raytracer in zig
 - [tiehuis/zig-sdl2](https://github.com/tiehuis/zig-sdl2) SDL2 bindings for Zig
+- [winksaville/zig-3d-soft-engine](https://github.com/winksaville/zig-3d-soft-engine) An attempt to create a 3D engine in software using zig.
 
 ## Misc libraries
 - [BraedonWooding/Lazy-Zig](https://github.com/BraedonWooding/Lazy-Zig) Linq in Zig
