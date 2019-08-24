@@ -1,6 +1,7 @@
 # Awesome Zig
 
 ## Algorithms and data structures
+- [aklapatch/b_tree_array](https://github.com/aklapatch/b_tree_array) A b-tree implemented with an array
 - [BarabasGitHub/LZig4](https://github.com/BarabasGitHub/LZig4) Implementing lz4 in zig.
 - [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) An array with a vector feeling in Zig
 - [emekoi/deque.zig](https://github.com/emekoi/deque.zig) a lock free chase-lev deque for zig
