@@ -62,6 +62,7 @@
 - [andrewrk/tetris](https://github.com/andrewrk/tetris) A simple tetris clone written in zig programming language.
 - [dbandstra/oxid](https://github.com/dbandstra/oxid) Arcade style game written in Zig
 - [fabioarnold/snake-zig](https://github.com/fabioarnold/snake-zig)
+- [Stenodyon/blink](https://github.com/Stenodyon/blink) A game about building logic with lasers
 - [thejoshwolfe/legend-of-swarkland](https://github.com/thejoshwolfe/legend-of-swarkland) Hack-n-slash roguelike inspired by NetHack
 - [tiehuis/zstack](https://github.com/tiehuis/zstack) Line-race tetris mode in Zig
 
