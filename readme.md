@@ -49,17 +49,19 @@
 - [sourgrasses/ichigo](https://github.com/sourgrasses/ichigo) 🍓 Virtual Boy emulator in Zig
 - [tiehuis/zig-gameboy](https://github.com/tiehuis/zig-gameboy) A gameboy emulator in zig
 
+## Game tools and libraries
+- [emekoi/ziglet](https://github.com/emekoi/ziglet) a small zig game library
+- [TM35-Metronome/metronome](https://github.com/TM35-Metronome/metronome) A set of tools for modifying and randomizing Pokémon games
+- [TM35-Metronome/tm35-nds](https://github.com/TM35-Metronome/tm35-nds) A library for working with Nintendo DS roms
+- [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig)
+
 ## Games
 - [Akuli/curses-minesweeper](https://github.com/Akuli/curses-minesweeper) Minesweeper game written in curses with zig
 - [andrewrk/clashos](https://github.com/andrewrk/clashos) multiplayer arcade game for bare metal Raspberry Pi 3 B+
 - [andrewrk/tetris](https://github.com/andrewrk/tetris) A simple tetris clone written in zig programming language.
 - [dbandstra/oxid](https://github.com/dbandstra/oxid) Arcade style game written in Zig
-- [emekoi/ziglet](https://github.com/emekoi/ziglet) a small zig game library
 - [thejoshwolfe/legend-of-swarkland](https://github.com/thejoshwolfe/legend-of-swarkland) Hack-n-slash roguelike inspired by NetHack
 - [tiehuis/zstack](https://github.com/tiehuis/zstack) Line-race tetris mode in Zig
-- [TM35-Metronome/metronome](https://github.com/TM35-Metronome/metronome) A set of tools for modifying and randomizing Pokémon games
-- [TM35-Metronome/tm35-nds](https://github.com/TM35-Metronome/tm35-nds) A library for working with Nintendo DS roms
-- [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig)
 
 ## GUI
 - [andrewrk/zig-mandelbrot-gl](https://github.com/andrewrk/zig-mandelbrot-gl) mandelbrot set in zig
