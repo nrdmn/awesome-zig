@@ -51,6 +51,7 @@
 
 ## Game tools and libraries
 - [emekoi/ziglet](https://github.com/emekoi/ziglet) a small zig game library
+- [kristianhasselknippe/zig-game-engine](https://github.com/kristianhasselknippe/zig-game-engine) Learning zig through game engine
 - [TM35-Metronome/metronome](https://github.com/TM35-Metronome/metronome) A set of tools for modifying and randomizing Pokémon games
 - [TM35-Metronome/tm35-nds](https://github.com/TM35-Metronome/tm35-nds) A library for working with Nintendo DS roms
 - [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig)
