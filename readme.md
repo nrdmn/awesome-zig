@@ -79,7 +79,7 @@
 - [BraedonWooding/Lazy-Zig](https://github.com/BraedonWooding/Lazy-Zig) Linq in Zig
 - [emekoi/log.zig](https://github.com/emekoi/log.zig) a thread-safe logging library for zig.
 - [gernest/time](https://github.com/gernest/time)
-- [kprotty/zio](https://github.com/kprotty/zio) Zig library for asynchronous computing and IO
+- [kprotty/ziggo](https://github.com/kprotty/ziggo) Zig library for asynchronous computing and IO
 
 ## Network
 - [connectFree/ZigZag](https://github.com/connectFree/ZigZag) Noise Framework implementation in Zig Language for use in EVER/IP and WireGuard
