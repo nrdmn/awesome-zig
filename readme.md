@@ -92,6 +92,7 @@
 - [Vexu/zuri](https://github.com/Vexu/zuri) URI parser for Zig
 
 ## Other
+- [andersfr/zig-lsp](https://github.com/andersfr/zig-lsp) Language Server Protocol for Zig
 - [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) Zootdeck Fediverse GTK Desktop Reader
 - [fengb/zig-protobuf](https://github.com/fengb/zig-protobuf)
 - [Hejsil/zig-gc](https://github.com/Hejsil/zig-gc) A super simple mark-and-sweep garbage collector written in Zig.
