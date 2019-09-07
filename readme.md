@@ -86,8 +86,8 @@
 ## Network
 - [connectFree/ZigZag](https://github.com/connectFree/ZigZag) Noise Framework implementation in Zig Language for use in EVER/IP and WireGuard
 - [euantorano/ip.zig](https://github.com/euantorano/ip.zig) A Zig library for working with IP Addresses
-- [lnyaa/zigdig](https://github.com/lnyaa/zigdig) naive dns client library in zig
-- [lnyaa/ziget](https://github.com/lnyaa/ziget) simple wget in zig without libc
+- [lun-4/zigdig](https://github.com/lun-4/zigdig) naive dns client library in zig
+- [lun-4/ziget](https://github.com/lun-4/ziget) simple wget in zig without libc
 - [Vexu/routez](https://github.com/Vexu/routez) Http server for Zig
 - [Vexu/zuri](https://github.com/Vexu/zuri) URI parser for Zig
 
