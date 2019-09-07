@@ -95,6 +95,7 @@
 - [andersfr/zig-lsp](https://github.com/andersfr/zig-lsp) Language Server Protocol for Zig
 - [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) Zootdeck Fediverse GTK Desktop Reader
 - [fengb/zig-protobuf](https://github.com/fengb/zig-protobuf)
+- [gernest/hoodie](https://github.com/gernest/hoodie) pure zig language server with swagger and bling bling
 - [Hejsil/zig-gc](https://github.com/Hejsil/zig-gc) A super simple mark-and-sweep garbage collector written in Zig.
 - [hspak/brightnessztl](https://github.com/hspak/brightnessztl) A CLI to control device backlight
 - [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) geteltorito re-write in Zig
