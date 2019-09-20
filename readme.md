@@ -27,6 +27,7 @@
 - [iguessthislldo/georgios](https://github.com/iguessthislldo/georgios) Hobby Operating System
 - [jzck/kernel-zig](https://github.com/jzck/kernel-zig) 💾 hobby x86 kernel zig
 - [liampwll/zig-efi-os](https://github.com/liampwll/zig-efi-os)
+- [markfirmware/zig-bare-metal-raspberry-pi](https://github.com/markfirmware/zig-bare-metal-raspberry-pi) Bare metal raspberry pi program written in zig
 - [nrdmn/uefi-paint](https://github.com/nrdmn/uefi-paint) UEFI-bootable touch paint app
 - [SamTebbs33/pluto](https://github.com/SamTebbs33/pluto) A hobby x86 (x64, arm and aarch64 in the future) kernel written in Zig
 - [sjdh02/trOS](https://github.com/sjdh02/trOS) tiny aarch64 baremetal OS thingy
