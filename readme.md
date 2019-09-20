@@ -88,6 +88,7 @@
 - [euantorano/ip.zig](https://github.com/euantorano/ip.zig) A Zig library for working with IP Addresses
 - [lun-4/zigdig](https://github.com/lun-4/zigdig) naive dns client library in zig
 - [lun-4/ziget](https://github.com/lun-4/ziget) simple wget in zig without libc
+- [mstroecker/zig-robotstxt](https://github.com/mstroecker/zig-robotstxt) Lightweight docker image for serving a disallow robots.txt file using the zig programming language.
 - [Vexu/routez](https://github.com/Vexu/routez) Http server for Zig
 - [Vexu/zuri](https://github.com/Vexu/zuri) URI parser for Zig
 
