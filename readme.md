@@ -118,6 +118,7 @@
 - [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) A regex implementation for the zig programming language
 - [tiehuis/zig-ryu](https://github.com/tiehuis/zig-ryu) Zig port of https://github.com/ulfjack/ryu
 - [Vexu/zuri](https://github.com/Vexu/zuri) URI parser for Zig
+- [vi/zigmkv](https://github.com/vi/zigmkv) [wip] Matroska/webm (mkv) parser in Zig
 - [winksaville/zig-parse-args](https://github.com/winksaville/zig-parse-args) Parse command line arguments.
 - [winksaville/zig-parse-number](https://github.com/winksaville/zig-parse-number) Implement ParseNumber which can parse any TypeId.Int or TypeId.Float.
 
