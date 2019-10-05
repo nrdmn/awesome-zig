@@ -114,6 +114,7 @@
 - [ducdetronquito/hppy](https://github.com/ducdetronquito/hppy) The happy HTML parser ᕕ( ᐛ )ᕗ
 - [goto-bus-stop/ziguid](https://github.com/goto-bus-stop/ziguid) GUID parsing/stringifying with zig
 - [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) Simple command line argument parsing library
+- [m-r-hunt/tjp](https://github.com/m-r-hunt/tjp)
 - [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) A regex implementation for the zig programming language
 - [tiehuis/zig-ryu](https://github.com/tiehuis/zig-ryu) Zig port of https://github.com/ulfjack/ryu
 - [Vexu/zuri](https://github.com/Vexu/zuri) URI parser for Zig
