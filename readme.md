@@ -19,6 +19,7 @@
 
 ## Audio
 - [dbandstra/zang](https://github.com/dbandstra/zang) Audio synthesis for Zig
+- [Hejsil/zig-midi](https://github.com/Hejsil/zig-midi)
 
 ## Bootables
 - [AndreaOrru/zen](https://github.com/AndreaOrru/zen) Experimental operating system written in Zig
