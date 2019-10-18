@@ -98,6 +98,7 @@
 
 ## Other
 - [andersfr/zig-lsp](https://github.com/andersfr/zig-lsp) Language Server Protocol for Zig
+- [belse-de/zig-tut](https://github.com/belse-de/zig-tut) A collection of small projects and tutorials to learn ZIG; may it be inspiration for others as well.
 - [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) Zootdeck Fediverse GTK Desktop Reader
 - [fengb/zig-protobuf](https://github.com/fengb/zig-protobuf)
 - [gernest/base32](https://github.com/gernest/base32) base32 encoding/decoding for ziglang
