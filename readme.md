@@ -55,6 +55,7 @@
 - [tiehuis/zig-gameboy](https://github.com/tiehuis/zig-gameboy) A gameboy emulator in zig
 
 ## Game tools and libraries
+- [danielabbott/Game-Engine](https://github.com/danielabbott/Game-Engine)
 - [emekoi/ziglet](https://github.com/emekoi/ziglet) a small zig game library
 - [kristianhasselknippe/zig-game-engine](https://github.com/kristianhasselknippe/zig-game-engine) Learning zig through game engine
 - [TM35-Metronome/metronome](https://github.com/TM35-Metronome/metronome) A set of tools for modifying and randomizing Pokémon games
