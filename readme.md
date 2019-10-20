@@ -53,6 +53,7 @@
 - [isaachier/gbemu](https://github.com/isaachier/gbemu) Zig Game Boy emulator
 - [sourgrasses/fishnchips](https://github.com/sourgrasses/fishnchips) [WIP] 🐟 CHIP-8 emulator implemented in Zig for leeeearning
 - [sourgrasses/ichigo](https://github.com/sourgrasses/ichigo) 🍓 Virtual Boy emulator in Zig
+- [Srekel/zag](https://github.com/Srekel/zag) Game engine written in Zig and C
 - [tiehuis/zig-gameboy](https://github.com/tiehuis/zig-gameboy) A gameboy emulator in zig
 
 ## Game tools and libraries
