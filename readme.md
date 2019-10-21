@@ -119,6 +119,7 @@
 - [benjif/zig-stl](https://github.com/benjif/zig-stl) STL file parser in Zig
 - [darithorn/zig-toml](https://github.com/darithorn/zig-toml) A TOML parser written in Zig
 - [ducdetronquito/hppy](https://github.com/ducdetronquito/hppy) The happy HTML parser ᕕ( ᐛ )ᕗ
+- [gernest/url](https://github.com/gernest/url)
 - [goto-bus-stop/ziguid](https://github.com/goto-bus-stop/ziguid) GUID parsing/stringifying with zig
 - [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) Simple command line argument parsing library
 - [m-r-hunt/tjp](https://github.com/m-r-hunt/tjp)
@@ -133,6 +134,7 @@
 - [andrewrk/lua-in-the-browser](https://github.com/andrewrk/lua-in-the-browser) using zig to build lua for webassembly
 - [fengb/fundude](https://github.com/fengb/fundude) Gameboy emulator: Zig -> wasm
 - [fengb/zee_alloc](https://github.com/fengb/zee_alloc) tiny Zig allocator primarily targeting WebAssembly
+- [gernest/url](https://github.com/gernest/url)
 - [meheleventyone/zig-wasm-test](https://github.com/meheleventyone/zig-wasm-test) A minimal Web Assembly example using Zig's build system.
 - [shritesh/zig-wasm-dom](https://github.com/shritesh/zig-wasm-dom) Zig + WebAssembly + JS + DOM
 - [shritesh/zigfmt-web](https://github.com/shritesh/zigfmt-web) zig fmt on the web
