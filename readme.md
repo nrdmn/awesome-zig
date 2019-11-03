@@ -29,6 +29,7 @@
 - [jzck/kernel-zig](https://github.com/jzck/kernel-zig) 💾 hobby x86 kernel zig
 - [liampwll/zig-efi-os](https://github.com/liampwll/zig-efi-os)
 - [markfirmware/zig-bare-metal-raspberry-pi](https://github.com/markfirmware/zig-bare-metal-raspberry-pi) Bare metal raspberry pi program written in zig
+- [MasterQ32/RetrOS](https://github.com/MasterQ32/RetrOS) A fake console running on bare x86 metal written in Zig
 - [nrdmn/uefi-examples](https://github.com/nrdmn/uefi-examples) UEFI examples in Zig
 - [nrdmn/uefi-paint](https://github.com/nrdmn/uefi-paint) UEFI-bootable touch paint app
 - [pixelherodev/limnos](https://github.com/pixelherodev/limnos)
