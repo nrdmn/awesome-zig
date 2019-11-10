@@ -19,6 +19,7 @@
 
 ## Audio
 - [dbandstra/zang](https://github.com/dbandstra/zang) Audio synthesis for Zig
+- [dbandstra/zig-wav](https://github.com/dbandstra/zig-wav)
 - [Hejsil/zig-midi](https://github.com/Hejsil/zig-midi)
 
 ## Bootables
