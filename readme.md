@@ -8,6 +8,7 @@
 - [kristoff-it/zig-cuckoofilter](https://github.com/kristoff-it/zig-cuckoofilter) Production-ready Cuckoo Filters for any C ABI compatible target.
 - [marijnfs/zigtimsort](https://github.com/marijnfs/zigtimsort) TimSort implementation for Zig
 - [Sahnvour/zig-containers](https://github.com/Sahnvour/zig-containers) A container library for Zig.
+- [Srekel/zig-sparse-set](https://github.com/Srekel/zig-sparse-set) Sparse sets for zig, supporting both SOA and AOS style
 - [v1zix/zig-string](https://github.com/v1zix/zig-string) Strings for Zig
 
 ## Allocators
