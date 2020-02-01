@@ -92,6 +92,7 @@
 - [emekoi/log.zig](https://github.com/emekoi/log.zig) a thread-safe logging library for zig.
 - [gernest/time](https://github.com/gernest/time)
 - [kprotty/zap](https://github.com/kprotty/zap) A collection of zig libraries which provide interfaces over the system for writing high performance applications
+- [prostomarkeloff/envconf](https://github.com/prostomarkeloff/envconf) pretty simple library for doing configs in Zig. 
 
 ## Network
 - [connectFree/ZigZag](https://github.com/connectFree/ZigZag) Noise Framework implementation in Zig Language for use in EVER/IP and WireGuard
