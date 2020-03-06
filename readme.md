@@ -1,7 +1,7 @@
 # Awesome Zig
 
 ## Algorithms and data structures
-- [aklapatch/b_tree_array](https://github.com/aklapatch/b_tree_array) A b-tree implemented with an array
+- [aklapatch/b_tree](https://github.com/aklapatch/b_tree) A b-tree implemented in Zig
 - [BarabasGitHub/LZig4](https://github.com/BarabasGitHub/LZig4) Implementing lz4 in zig.
 - [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) An array with a vector feeling in Zig
 - [emekoi/deque.zig](https://github.com/emekoi/deque.zig) a lock free chase-lev deque for zig
@@ -31,11 +31,11 @@
 - [jzck/kernel-zig](https://github.com/jzck/kernel-zig) 💾 hobby x86 kernel zig
 - [liampwll/zig-efi-os](https://github.com/liampwll/zig-efi-os)
 - [markfirmware/zig-bare-metal-raspberry-pi](https://github.com/markfirmware/zig-bare-metal-raspberry-pi) Bare metal raspberry pi program written in zig
-- [MasterQ32/RetrOS](https://github.com/MasterQ32/RetrOS) A fake console running on bare x86 metal written in Zig
+- [MasterQ32/RetrOS](https://github.com/MasterQ32/RetrOS) A retro-style gaming console running on bare x86 metal written in Zig
 - [nrdmn/uefi-examples](https://github.com/nrdmn/uefi-examples) UEFI examples in Zig
 - [nrdmn/uefi-paint](https://github.com/nrdmn/uefi-paint) UEFI-bootable touch paint app
 - [pixelherodev/limnos](https://github.com/pixelherodev/limnos)
-- [SamTebbs33/pluto](https://github.com/SamTebbs33/pluto) A hobby x86 (x64, arm and aarch64 in the future) kernel written in Zig
+- [SamTebbs33/pluto](https://github.com/SamTebbs33/pluto) An x86 kernel written in Zig
 - [sjdh02/trOS](https://github.com/sjdh02/trOS) tiny aarch64 baremetal OS thingy
 - [tralamazza/embedded_zig](https://github.com/tralamazza/embedded_zig) minimal Zig embedded ARM example (STM32F103 blue pill)
 - [yvt/zig-armv8m-test](https://github.com/yvt/zig-armv8m-test) Example Zig-based app for Armv8-M + TrustZone
@@ -52,11 +52,10 @@
 ## Emulators
 - [emekoi/c8](https://github.com/emekoi/c8) chip 8 emulator in zig
 - [fengb/fundude](https://github.com/fengb/fundude) Gameboy emulator: Zig -> wasm
-- [IamRifki/zagSNES](https://github.com/IamRifki/zagSNES) Experimental SNES emulator in Ziglang
 - [isaachier/gbemu](https://github.com/isaachier/gbemu) Zig Game Boy emulator
 - [sourgrasses/fishnchips](https://github.com/sourgrasses/fishnchips) [WIP] 🐟 CHIP-8 emulator implemented in Zig for leeeearning
-- [sourgrasses/ichigo](https://github.com/sourgrasses/ichigo) 🍓 Virtual Boy emulator in Zig
-- [Srekel/zag](https://github.com/Srekel/zag) Game engine written in Zig and C
+- [sourgrasses/ichigo](https://github.com/sourgrasses/ichigo) [WIP] 🍓 Virtual Boy emulator
+- [Srekel/zag](https://github.com/Srekel/zag) Game dev project written in Zig and C
 - [tiehuis/zig-gameboy](https://github.com/tiehuis/zig-gameboy) A gameboy emulator in zig
 
 ## Game tools and libraries
@@ -107,7 +106,6 @@
 - [belse-de/zig-tut](https://github.com/belse-de/zig-tut) A collection of small projects and tutorials to learn ZIG; may it be inspiration for others as well.
 - [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) Zootdeck Fediverse GTK Desktop Reader
 - [fengb/zig-protobuf](https://github.com/fengb/zig-protobuf)
-- [fjallarefur/icelandic-runes](https://github.com/fjallarefur/icelandic-runes)
 - [gernest/base32](https://github.com/gernest/base32) base32 encoding/decoding for ziglang
 - [gernest/hoodie](https://github.com/gernest/hoodie) pure zig language server with swagger and bling bling
 - [Hejsil/zig-gc](https://github.com/Hejsil/zig-gc) A super simple mark-and-sweep garbage collector written in Zig.
@@ -119,7 +117,6 @@
 - [thejoshwolfe/hexdump-zip](https://github.com/thejoshwolfe/hexdump-zip) produce an annotated hexdump of a zipfile
 
 ## Parser
-- [benjif/zig-stl](https://github.com/benjif/zig-stl) STL file parser in Zig
 - [darithorn/zig-toml](https://github.com/darithorn/zig-toml) A TOML parser written in Zig
 - [ducdetronquito/hppy](https://github.com/ducdetronquito/hppy) The happy HTML parser ᕕ( ᐛ )ᕗ
 - [gernest/url](https://github.com/gernest/url)
