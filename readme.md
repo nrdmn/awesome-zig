@@ -78,6 +78,7 @@
 - [TM35-Metronome/metronome](https://github.com/TM35-Metronome/metronome) A set of tools for modifying and randomizing Pokémon games
 - [TM35-Metronome/tm35-nds](https://github.com/TM35-Metronome/tm35-nds) A library for working with Nintendo DS roms
 - [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig)
+- [wendigojaeger/ZigGBA](https://github.com/wendigojaeger/ZigGBA) Work in progress SDK for creating Game Boy Advance games using Zig programming language.
 
 ## Games
 - [Akuli/curses-minesweeper](https://github.com/Akuli/curses-minesweeper) Minesweeper game written in curses with zig
