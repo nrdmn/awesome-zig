@@ -96,6 +96,7 @@
 - [andrewrk/zig-vulkan-triangle](https://github.com/andrewrk/zig-vulkan-triangle) simple triangle displayed using vulkan, glfw, and zig
 - [cshenton/learnopengl](https://github.com/cshenton/learnopengl) https://learnopengl.com tutorials ported to zig
 - [dbandstra/zig-pcx](https://github.com/dbandstra/zig-pcx) Load and save PCX images in Zig
+- [ifreund/river](https://github.com/ifreund/river) dynamic wayland compositor that takes inspiration from dwm and bspwm
 - [Nelarius/weekend-raytracer-zig](https://github.com/Nelarius/weekend-raytracer-zig) A Zig implementation of the "Ray Tracing in One Weekend" book
 - [SpexGuy/Zig-Gltf-Display](https://github.com/SpexGuy/Zig-Gltf-Display) A program that displays glTF files using Vulkan, written in Zig.
 - [tiehuis/zig-raytrace](https://github.com/tiehuis/zig-raytrace) simple raytracer in zig
@@ -112,13 +113,20 @@
 
 ## Network
 - [connectFree/ZigZag](https://github.com/connectFree/ZigZag) Noise Framework implementation in Zig Language for use in EVER/IP and WireGuard
+- [ducdetronquito/h11](https://github.com/ducdetronquito/h11) I/O-free HTTP/1.1 implementation inspired by hyper/h11
 - [euantorano/ip.zig](https://github.com/euantorano/ip.zig) A Zig library for working with IP Addresses
 - [lun-4/zigdig](https://github.com/lun-4/zigdig) naive dns client library in zig
 - [lun-4/ziget](https://github.com/lun-4/ziget) simple wget in zig without libc
-- [ducdetronquito/h11](https://github.com/ducdetronquito/h11) I/O-free HTTP/1.1 implementation inspired by hyper/h11
+- [marler8997/netpunch](https://github.com/marler8997/netpunch) Outbound proxy protocol
 - [mstroecker/zig-robotstxt](https://github.com/mstroecker/zig-robotstxt) Lightweight docker image for serving a disallow robots.txt file using the zig programming language.
 - [Vexu/routez](https://github.com/Vexu/routez) Http server for Zig
 - [Vexu/zuri](https://github.com/Vexu/zuri) URI parser for Zig
+
+## System tools
+- [pbui-project/pbui-main](https://github.com/pbui-project/pbui-main) BSD/Linux core utilities written in Zig
+- [hspak/brightnessztl](https://github.com/hspak/brightnessztl) A CLI to control device backlight
+- [thejoshwolfe/hexdump-zip](https://github.com/thejoshwolfe/hexdump-zip) produce an annotated hexdump of a zipfile
+
 
 ## Other
 - [andersfr/zig-lsp](https://github.com/andersfr/zig-lsp) Language Server Protocol for Zig
@@ -128,13 +136,11 @@
 - [gernest/base32](https://github.com/gernest/base32) base32 encoding/decoding for ziglang
 - [gernest/hoodie](https://github.com/gernest/hoodie) pure zig language server with swagger and bling bling
 - [Hejsil/zig-gc](https://github.com/Hejsil/zig-gc) A super simple mark-and-sweep garbage collector written in Zig.
-- [hspak/brightnessztl](https://github.com/hspak/brightnessztl) A CLI to control device backlight
 - [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) geteltorito re-write in Zig
 - [lun-4/zig-docsearch](https://github.com/lun-4/zig-docsearch) search over zig stdlib doc comments (with rudimentary html gen)
 - [MasterQ32/ZigPaint](https://github.com/MasterQ32/ZigPaint) A simple paint application written in Zig. Used to create an OpenGL loader/wrapper and a minimal UI system.
 - [meta-leap/langserv](https://github.com/meta-leap/langserv) LSP implementation lib plus demo / dummy language server showcasing usage (WIP)
 - [momumi/x86-zig](https://github.com/momumi/x86-zig) library for assembling x86 in zig (WIP)
-- [thejoshwolfe/hexdump-zip](https://github.com/thejoshwolfe/hexdump-zip) produce an annotated hexdump of a zipfile
 - [vegecode/svd2zig](https://github.com/vegecode/svd2zig) Convert System View Description (svd) files to Zig headers for baremetal development
 
 ## Parser
