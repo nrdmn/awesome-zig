@@ -141,6 +141,7 @@
 - [MasterQ32/ZigPaint](https://github.com/MasterQ32/ZigPaint) A simple paint application written in Zig. Used to create an OpenGL loader/wrapper and a minimal UI system.
 - [meta-leap/langserv](https://github.com/meta-leap/langserv) LSP implementation lib plus demo / dummy language server showcasing usage (WIP)
 - [momumi/x86-zig](https://github.com/momumi/x86-zig) library for assembling x86 in zig (WIP)
+- [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) iLO license key library
 - [vegecode/svd2zig](https://github.com/vegecode/svd2zig) Convert System View Description (svd) files to Zig headers for baremetal development
 
 ## Parser
