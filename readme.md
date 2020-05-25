@@ -61,6 +61,7 @@
 - [ziglang/vscode-zig](https://github.com/ziglang/vscode-zig) Zig language support for VSCode
 - [ziglang/zig-mode](https://github.com/ziglang/zig-mode) Zig mode for Emacs
 - [ziglang/zig.vim](https://github.com/ziglang/zig.vim) Vim configuration for Zig
+- [zigtools/zls](https://github.com/zigtools/zls) Zig LSP implementation + Zig Language Server
 
 ## Emulators
 - [emekoi/c8](https://github.com/emekoi/c8) chip 8 emulator in zig
@@ -110,6 +111,7 @@
 - [gernest/time](https://github.com/gernest/time)
 - [kprotty/zap](https://github.com/kprotty/zap) A collection of zig libraries which provide interfaces over the system for writing high performance applications
 - [mlarouche/zigimg](https://github.com/mlarouche/zigimg) Zig library for reading and writing different image formats
+- [ziglibs/known-folders](https://github.com/ziglibs/known-folders) Provides access to well-known folders across several operating systems
 
 ## Network
 - [connectFree/ZigZag](https://github.com/connectFree/ZigZag) Noise Framework implementation in Zig Language for use in EVER/IP and WireGuard
@@ -143,6 +145,7 @@
 - [momumi/x86-zig](https://github.com/momumi/x86-zig) library for assembling x86 in zig (WIP)
 - [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) iLO license key library
 - [vegecode/svd2zig](https://github.com/vegecode/svd2zig) Convert System View Description (svd) files to Zig headers for baremetal development
+- [zigtools/zpm](https://github.com/zigtools/zpm) Unofficial Zig package manager
 
 ## Parser
 - [darithorn/zig-toml](https://github.com/darithorn/zig-toml) A TOML parser written in Zig
