@@ -123,6 +123,7 @@
 - [mstroecker/zig-robotstxt](https://github.com/mstroecker/zig-robotstxt) Lightweight docker image for serving a disallow robots.txt file using the zig programming language.
 - [Vexu/routez](https://github.com/Vexu/routez) Http server for Zig
 - [Vexu/zuri](https://github.com/Vexu/zuri) URI parser for Zig
+- [remeh/statsd-zig](https://github.com/remeh/statsd-zig) Basic DogStatsD UDP server
 
 ## System tools
 - [pbui-project/pbui-main](https://github.com/pbui-project/pbui-main) BSD/Linux core utilities written in Zig
