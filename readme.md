@@ -149,6 +149,8 @@
 - [vegecode/svd2zig](https://github.com/vegecode/svd2zig) Convert System View Description (svd) files to Zig headers for baremetal development
 - [zigtools/zpm](https://github.com/zigtools/zpm) Unofficial Zig package manager
 - [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) Zig learning resources
+- [mqttiotstuff/iotmonitor](https://github.com/mqttiotstuff/iotmonitor) Zig MQTT IotMonitor tools, save time to monitor mqtt agents or devices
+
 
 ## Parser
 - [darithorn/zig-toml](https://github.com/darithorn/zig-toml) A TOML parser written in Zig
