@@ -67,6 +67,7 @@
 ## Emulators
 - [emekoi/c8](https://github.com/emekoi/c8) chip 8 emulator in zig
 - [fengb/fundude](https://github.com/fengb/fundude) Gameboy emulator: Zig -> wasm
+- [GrooveStomp/chip8-zig](https://github.com/GrooveStomp/chip8-zig) CHIP-8 emulator in Zig
 - [isaachier/gbemu](https://github.com/isaachier/gbemu) Zig Game Boy emulator
 - [sourgrasses/fishnchips](https://github.com/sourgrasses/fishnchips) [WIP] 🐟 CHIP-8 emulator implemented in Zig for leeeearning
 - [sourgrasses/ichigo](https://github.com/sourgrasses/ichigo) [WIP] 🍓 Virtual Boy emulator
