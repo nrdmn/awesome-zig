@@ -91,6 +91,7 @@
 - [Stenodyon/blink](https://github.com/Stenodyon/blink) A game about building logic with lasers
 - [thejoshwolfe/legend-of-swarkland](https://github.com/thejoshwolfe/legend-of-swarkland) Hack-n-slash roguelike inspired by NetHack
 - [tiehuis/zstack](https://github.com/tiehuis/zstack) Line-race tetris mode in Zig
+- [kooparse/zalgebra](https://github.com/kooparse/zalgebra) Linear algebra library for games and real-time computer graphics.
 
 ## GUI
 - [andrewrk/zig-mandelbrot-gl](https://github.com/andrewrk/zig-mandelbrot-gl) mandelbrot set in zig
