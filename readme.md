@@ -156,6 +156,8 @@
 - [gernest/url](https://github.com/gernest/url)
 - [goto-bus-stop/ziguid](https://github.com/goto-bus-stop/ziguid) GUID parsing/stringifying with zig
 - [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) Simple command line argument parsing library
+- [kivikakk/libpcre.zig](https://github.com/kivikakk/libpcre.zig) Bindings to libpcre for Perl-compatible regular expressions
+- [kivikakk/koino](https://github.com/kivikakk/koino) CommonMark/GitHub Flavored Markdown parser and HTML renderer
 - [m-r-hunt/tjp](https://github.com/m-r-hunt/tjp)
 - [prostomarkeloff/zigini](https://github.com/prostomarkeloff/zigini) Simple, small (~220 loc) library for parsing .INI files in Zig.
 - [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) A regex implementation for the zig programming language
