@@ -139,7 +139,8 @@
 - [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) Zootdeck Fediverse GTK Desktop Reader
 - [fengb/zig-protobuf](https://github.com/fengb/zig-protobuf)
 - [gernest/base32](https://github.com/gernest/base32) base32 encoding/decoding for ziglang
-- [gernest/hoodie](https://github.com/gernest/hoodie) pure zig language server with swagger and bling bling
+- [gernest/hoodie](https://github.com/gernest/hoodie) 
+zig language server with swagger and bling bling
 - [Hejsil/zig-gc](https://github.com/Hejsil/zig-gc) A super simple mark-and-sweep garbage collector written in Zig.
 - [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) geteltorito re-write in Zig
 - [lun-4/zig-docsearch](https://github.com/lun-4/zig-docsearch) search over zig stdlib doc comments (with rudimentary html gen)
@@ -169,6 +170,7 @@
 - [vi/zigmkv](https://github.com/vi/zigmkv) [wip] Matroska/webm (mkv) parser in Zig
 - [winksaville/zig-parse-args](https://github.com/winksaville/zig-parse-args) Parse command line arguments.
 - [winksaville/zig-parse-number](https://github.com/winksaville/zig-parse-number) Implement ParseNumber which can parse any TypeId.Int or TypeId.Float.
+- [demizer/markzig](https://github.com/demizer/markzig) Pure Zig Markdown Parser
 
 ## Web
 - [andrewrk/lua-in-the-browser](https://github.com/andrewrk/lua-in-the-browser) using zig to build lua for webassembly
