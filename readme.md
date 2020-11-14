@@ -167,6 +167,7 @@
 - [vi/zigmkv](https://github.com/vi/zigmkv) [wip] Matroska/webm (mkv) parser in Zig
 - [winksaville/zig-parse-args](https://github.com/winksaville/zig-parse-args) Parse command line arguments.
 - [winksaville/zig-parse-number](https://github.com/winksaville/zig-parse-number) Implement ParseNumber which can parse any TypeId.Int or TypeId.Float.
+- [demizer/markzig](https://github.com/demizer/markzig) Pure Zig Markdown Parser
 
 ## Web
 - [andrewrk/lua-in-the-browser](https://github.com/andrewrk/lua-in-the-browser) using zig to build lua for webassembly
