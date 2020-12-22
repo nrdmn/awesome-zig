@@ -50,6 +50,7 @@
 - [kristoff-it/zig-okredis](https://github.com/kristoff-it/zig-okredis) Zero-allocation Client for Redis 6+
 - [leroycep/sqlite-zig](https://github.com/leroycep/sqlite-zig)
 - [vrischmann/zig-cassandra](https://github.com/vrischmann/zig-cassandra) Client for Cassandra 2.1+
+- [vrischmann/zig-sqlite](https://github.com/vrischmann/zig-sqlite) SQLite wrapper
 
 ## Editor plugins
 - [ice1000/intellij-zig](https://github.com/ice1000/intellij-zig) The IntelliJ IDEA plugin for the Zig programming language ┗😃┛ ┏😃┓ ┗😃┛ ┏😃┓
