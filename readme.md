@@ -21,6 +21,9 @@
 - [dbandstra/zig-wav](https://github.com/dbandstra/zig-wav)
 - [Hejsil/zig-midi](https://github.com/Hejsil/zig-midi)
 
+## Binding
+- [QML-zig](https://github.com/kassane/qml_zig) - QML bindings for the Zig programming language.
+
 ## Bootables
 - [AndreaOrru/zen](https://github.com/AndreaOrru/zen) Experimental operating system written in Zig
 - [andrewrk/clashos](https://github.com/andrewrk/clashos) multiplayer arcade game for bare metal Raspberry Pi 3 B+
