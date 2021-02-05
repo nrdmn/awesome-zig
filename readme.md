@@ -98,6 +98,7 @@
 - [cshenton/learnopengl](https://github.com/cshenton/learnopengl) https://learnopengl.com tutorials ported to zig
 - [dbandstra/zig-pcx](https://github.com/dbandstra/zig-pcx) Load and save PCX images in Zig
 - [ifreund/river](https://github.com/ifreund/river) dynamic wayland compositor that takes inspiration from dwm and bspwm
+- [kassane/QML-zig](https://github.com/kassane/qml_zig) - QML bindings for the Zig programming language.
 - [Nelarius/weekend-raytracer-zig](https://github.com/Nelarius/weekend-raytracer-zig) A Zig implementation of the "Ray Tracing in One Weekend" book
 - [SpexGuy/Zig-Gltf-Display](https://github.com/SpexGuy/Zig-Gltf-Display) A program that displays glTF files using Vulkan, written in Zig.
 - [tiehuis/zig-raytrace](https://github.com/tiehuis/zig-raytrace) simple raytracer in zig
