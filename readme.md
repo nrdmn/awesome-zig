@@ -4,6 +4,7 @@
 - [BarabasGitHub/LZig4](https://github.com/BarabasGitHub/LZig4) Implementing lz4 in zig.
 - [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) An array with a vector feeling in Zig
 - [emekoi/deque.zig](https://github.com/emekoi/deque.zig) a lock free chase-lev deque for zig
+- [hexops/xorfilter](https://github.com/hexops/xorfilter) Xor Filters: Faster and Smaller Than Bloom Filters
 - [kristoff-it/zig-cuckoofilter](https://github.com/kristoff-it/zig-cuckoofilter) Production-ready Cuckoo Filters for any C ABI compatible target.
 - [marijnfs/zigtimsort](https://github.com/marijnfs/zigtimsort) TimSort implementation for Zig
 - [Sahnvour/zig-containers](https://github.com/Sahnvour/zig-containers) A container library for Zig.
