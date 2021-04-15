@@ -147,6 +147,7 @@
 - [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) iLO license key library
 - [vegecode/svd2zig](https://github.com/vegecode/svd2zig) Convert System View Description (svd) files to Zig headers for baremetal development
 - [zigtools/zpm](https://github.com/zigtools/zpm) Unofficial Zig package manager
+- [mattnite/gyro](https://github.com/mattnite/gyro) Unofficial Zig package manager
 - [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) Zig learning resources
 - [mqttiotstuff/iotmonitor](https://github.com/mqttiotstuff/iotmonitor) Zig MQTT IotMonitor tools, save time to monitor mqtt agents or devices
 
