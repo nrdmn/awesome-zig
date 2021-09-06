@@ -46,6 +46,7 @@
 - [Vexu/bog](https://github.com/Vexu/bog) Small, strongly typed, embeddable language.
 
 ## Database
+- [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle) A distributed financial accounting database designed for mission critical safety and performance
 - [kristoff-it/redis-cuckoofilter](https://github.com/kristoff-it/redis-cuckoofilter) Hashing-function agnostic Cuckoo filters for Redis
 - [kristoff-it/zig-okredis](https://github.com/kristoff-it/zig-okredis) Zero-allocation Client for Redis 6+
 - [leroycep/sqlite-zig](https://github.com/leroycep/sqlite-zig)
