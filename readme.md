@@ -70,6 +70,7 @@
 - [sourgrasses/ichigo](https://github.com/sourgrasses/ichigo) [WIP] 🍓 Virtual Boy emulator
 - [Srekel/zag](https://github.com/Srekel/zag) Game dev project written in Zig and C
 - [tiehuis/zig-gameboy](https://github.com/tiehuis/zig-gameboy) A gameboy emulator in zig
+- [floooh/kc85.zig](https://github.com/floooh/kc85.zig) A KC85 emulator in Zig
 
 ## Game tools and libraries
 - [danielabbott/Game-Engine](https://github.com/danielabbott/Game-Engine)
@@ -90,6 +91,7 @@
 - [thejoshwolfe/legend-of-swarkland](https://github.com/thejoshwolfe/legend-of-swarkland) Hack-n-slash roguelike inspired by NetHack
 - [tiehuis/zstack](https://github.com/tiehuis/zstack) Line-race tetris mode in Zig
 - [kooparse/zalgebra](https://github.com/kooparse/zalgebra) Linear algebra library for games and real-time computer graphics.
+- [floooh/pacman.zig](https://github.com/floooh/pacman.zig) A Pacman clone written in Zig
 
 ## GUI
 - [andrewrk/zig-mandelbrot-gl](https://github.com/andrewrk/zig-mandelbrot-gl) mandelbrot set in zig
