@@ -175,6 +175,7 @@
 - [fengb/zee_alloc](https://github.com/fengb/zee_alloc) tiny Zig allocator primarily targeting WebAssembly
 - [gernest/url](https://github.com/gernest/url)
 - [kivikakk/htmlentities.zig](https://github.com/kivikakk/htmlentities.zig) HTML5 entity data.
+- [Luukdegram/apple_pie](https://github.com/Luukdegram/apple_pie) HTTP server implementation in Zig
 - [meheleventyone/zig-wasm-test](https://github.com/meheleventyone/zig-wasm-test) A minimal Web Assembly example using Zig's build system.
 - [shritesh/zig-wasm-dom](https://github.com/shritesh/zig-wasm-dom) Zig + WebAssembly + JS + DOM
 - [shritesh/zigfmt-web](https://github.com/shritesh/zigfmt-web) zig fmt on the web
