@@ -95,6 +95,7 @@
 - [andrewrk/zig-mandelbrot-gl](https://github.com/andrewrk/zig-mandelbrot-gl) mandelbrot set in zig
 - [andrewrk/zig-sdl](https://github.com/andrewrk/zig-sdl) self-contained SDL2 package for Zig
 - [andrewrk/zig-vulkan-triangle](https://github.com/andrewrk/zig-vulkan-triangle) simple triangle displayed using vulkan, glfw, and zig
+- [batiati/IUPforZig](https://github.com/batiati/IUPforZig) Zig idiomatic and type-checked bindings for IUP Portable User Interface Toolkit
 - [cshenton/learnopengl](https://github.com/cshenton/learnopengl) https://learnopengl.com tutorials ported to zig
 - [dbandstra/zig-pcx](https://github.com/dbandstra/zig-pcx) Load and save PCX images in Zig
 - [ifreund/river](https://github.com/ifreund/river) dynamic wayland compositor that takes inspiration from dwm and bspwm
