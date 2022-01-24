@@ -72,6 +72,7 @@
 - [tiehuis/zig-gameboy](https://github.com/tiehuis/zig-gameboy) A gameboy emulator in zig
 
 ## Game tools and libraries
+- [Avokadoen/zig_vulkan](https://github.com/Avokadoen/zig_vulkan) A (highly WIP) toy render API capable of 2d sprite rendering and voxel raytracing 
 - [danielabbott/Game-Engine](https://github.com/danielabbott/Game-Engine)
 - [emekoi/ziglet](https://github.com/emekoi/ziglet) a small zig game library
 - [kristianhasselknippe/zig-game-engine](https://github.com/kristianhasselknippe/zig-game-engine) Learning zig through game engine
