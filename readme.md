@@ -76,6 +76,7 @@
 - [danielabbott/Game-Engine](https://github.com/danielabbott/Game-Engine)
 - [emekoi/ziglet](https://github.com/emekoi/ziglet) a small zig game library
 - [kristianhasselknippe/zig-game-engine](https://github.com/kristianhasselknippe/zig-game-engine) Learning zig through game engine
+- [michal-z/zig-gamedev](https://github.com/michal-z/zig-gamedev) A WIP collection of sample applications and libraries written using DirectX 12, DirectML, XAudio2, WASAPI, Direct2D, DirectWrite, Bullet Physics SDK.
 - [TM35-Metronome/metronome](https://github.com/TM35-Metronome/metronome) A set of tools for modifying and randomizing Pokémon games
 - [TM35-Metronome/tm35-nds](https://github.com/TM35-Metronome/tm35-nds) A library for working with Nintendo DS roms
 - [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig)
