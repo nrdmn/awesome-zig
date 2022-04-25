@@ -149,7 +149,7 @@
 - [zigtools/zpm](https://github.com/zigtools/zpm) Unofficial Zig package manager
 - [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) Zig learning resources
 - [mqttiotstuff/iotmonitor](https://github.com/mqttiotstuff/iotmonitor) Zig MQTT IotMonitor tools, save time to monitor mqtt agents or devices
-
+- [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) An implementation of Protocol Buffers v3 leveraging zig's comptime.
 
 ## Parser
 - [darithorn/zig-toml](https://github.com/darithorn/zig-toml) A TOML parser written in Zig
