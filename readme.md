@@ -70,6 +70,7 @@
 - [sourgrasses/ichigo](https://github.com/sourgrasses/ichigo) [WIP] 🍓 Virtual Boy emulator
 - [Srekel/zag](https://github.com/Srekel/zag) Game dev project written in Zig and C
 - [tiehuis/zig-gameboy](https://github.com/tiehuis/zig-gameboy) A gameboy emulator in zig
+- [Arwalk/ChipZ](https://github.com/Arwalk/ChipZ) A simple Chip8 emulator (library and executable).
 
 ## Game tools and libraries
 - [danielabbott/Game-Engine](https://github.com/danielabbott/Game-Engine)
