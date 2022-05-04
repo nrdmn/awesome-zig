@@ -9,6 +9,7 @@
 - [Sahnvour/zig-containers](https://github.com/Sahnvour/zig-containers) A container library for Zig.
 - [Srekel/zig-sparse-set](https://github.com/Srekel/zig-sparse-set) Sparse sets for zig, supporting both SOA and AOS style
 - [v1zix/zig-string](https://github.com/v1zix/zig-string) Strings for Zig
+- [moonxraccoon/zig-algorithms](https://github.com/moonxraccoon/zig-algorithms) Many different algorithms implemented in Zig
 
 ## Allocators
 - [dbandstra/zig-hunk](https://github.com/dbandstra/zig-hunk) Basic stack allocator for Zig
