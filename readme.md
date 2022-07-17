@@ -161,6 +161,7 @@
 - [kivikakk/koino](https://github.com/kivikakk/koino) CommonMark/GitHub Flavored Markdown parser and HTML renderer
 - [m-r-hunt/tjp](https://github.com/m-r-hunt/tjp)
 - [prostomarkeloff/zigini](https://github.com/prostomarkeloff/zigini) Simple, small (~220 loc) library for parsing .INI files in Zig.
+- [sam701/zig-cli](https://github.com/sam701/zig-cli) A simple package for building command line apps in Zig
 - [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) A regex implementation for the zig programming language
 - [tiehuis/zig-ryu](https://github.com/tiehuis/zig-ryu) Zig port of https://github.com/ulfjack/ryu
 - [Vexu/zuri](https://github.com/Vexu/zuri) URI parser for Zig
