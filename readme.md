@@ -179,3 +179,6 @@
 - [shritesh/zig-wasm-dom](https://github.com/shritesh/zig-wasm-dom) Zig + WebAssembly + JS + DOM
 - [shritesh/zigfmt-web](https://github.com/shritesh/zigfmt-web) zig fmt on the web
 - [Vexu/routez](https://github.com/Vexu/routez) Http server for Zig
+
+## Resources
+- [Zig Weekly](https://discu.eu/weekly/zig/) - weekly recap with articles, projects and tutorials
