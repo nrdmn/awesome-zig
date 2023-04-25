@@ -179,3 +179,4 @@
 - [shritesh/zig-wasm-dom](https://github.com/shritesh/zig-wasm-dom) Zig + WebAssembly + JS + DOM
 - [shritesh/zigfmt-web](https://github.com/shritesh/zigfmt-web) zig fmt on the web
 - [Vexu/routez](https://github.com/Vexu/routez) Http server for Zig
+- [zerve](https://github.com/floscodes/zerve) Simple web framework for Zig
