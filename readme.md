@@ -22,23 +22,10 @@
 - [Hejsil/zig-midi](https://github.com/Hejsil/zig-midi)
 
 ## Bootables
-- [AndreaOrru/zen](https://github.com/AndreaOrru/zen) Experimental operating system written in Zig
-- [andrewrk/clashos](https://github.com/andrewrk/clashos) multiplayer arcade game for bare metal Raspberry Pi 3 B+
 - [andrewrk/HellOS](https://github.com/andrewrk/HellOS) "hello world" x86 kernel example
-- [DorianXGH/Lukarnel](https://github.com/DorianXGH/Lukarnel) A microkernel in zig with rust microservices
 - [iguessthislldo/georgios](https://github.com/iguessthislldo/georgios) Hobby Operating System
 - [jzck/kernel-zig](https://github.com/jzck/kernel-zig) 💾 hobby x86 kernel zig
-- [liampwll/zig-efi-os](https://github.com/liampwll/zig-efi-os)
-- [markfirmware/zig-bare-metal-microbit](https://github.com/markfirmware/zig-bare-metal-microbit) Bare metal microbit program written in zig
-- [markfirmware/zig-bare-metal-raspberry-pi](https://github.com/markfirmware/zig-bare-metal-raspberry-pi) Bare metal raspberry pi program written in zig
-- [MasterQ32/RetrOS](https://github.com/MasterQ32/RetrOS) A retro-style gaming console running on bare x86 metal written in Zig
 - [nrdmn/uefi-examples](https://github.com/nrdmn/uefi-examples) UEFI examples in Zig
-- [nrdmn/uefi-paint](https://github.com/nrdmn/uefi-paint) UEFI-bootable touch paint app
-- [SamTebbs33/pluto](https://github.com/SamTebbs33/pluto) An x86 kernel written in Zig
-- [sjdh02/trOS](https://github.com/sjdh02/trOS) tiny aarch64 baremetal OS thingy
-- [tralamazza/embedded_zig](https://github.com/tralamazza/embedded_zig) minimal Zig embedded ARM example (STM32F103 blue pill)
-- [yvt/zig-armv8m-test](https://github.com/yvt/zig-armv8m-test) Example Zig-based app for Armv8-M + TrustZone
-- [ZeeBoppityZagZiggity/ZBZZ.OS](https://github.com/ZeeBoppityZagZiggity/ZBZZ.OS) An operating system built with RISCV and Zig
 
 ## Compilers and interpreters
 - [CurtisFenner/zsmol](https://github.com/CurtisFenner/zsmol) The new Smol compiler and reference.
@@ -179,3 +166,23 @@
 - [shritesh/zig-wasm-dom](https://github.com/shritesh/zig-wasm-dom) Zig + WebAssembly + JS + DOM
 - [shritesh/zigfmt-web](https://github.com/shritesh/zigfmt-web) zig fmt on the web
 - [Vexu/routez](https://github.com/Vexu/routez) Http server for Zig
+
+# Outdated
+
+Projects that would appreciate some of your love. ;-)
+
+## Bootable
+
+- [AndreaOrru/zen](https://github.com/AndreaOrru/zen) Experimental operating system written in Zig
+- [andrewrk/clashos](https://github.com/andrewrk/clashos) multiplayer arcade game for bare metal Raspberry Pi 3 B+
+- [DorianXGH/Lukarnel](https://github.com/DorianXGH/Lukarnel) A microkernel in zig with rust microservices
+- [liampwll/zig-efi-os](https://github.com/liampwll/zig-efi-os)
+- [markfirmware/zig-bare-metal-microbit](https://github.com/markfirmware/zig-bare-metal-microbit) Bare metal microbit program written in zig
+- [markfirmware/zig-bare-metal-raspberry-pi](https://github.com/markfirmware/zig-bare-metal-raspberry-pi) Bare metal raspberry pi program written in zig
+- [MasterQ32/RetrOS](https://github.com/MasterQ32/RetrOS) A retro-style gaming console running on bare x86 metal written in Zig
+- [nrdmn/uefi-paint](https://github.com/nrdmn/uefi-paint) UEFI-bootable touch paint app
+- [SamTebbs33/pluto](https://github.com/SamTebbs33/pluto) An x86 kernel written in Zig
+- [sjdh02/trOS](https://github.com/sjdh02/trOS) tiny aarch64 baremetal OS thingy
+- [tralamazza/embedded_zig](https://github.com/tralamazza/embedded_zig) minimal Zig embedded ARM example (STM32F103 blue pill)
+- [yvt/zig-armv8m-test](https://github.com/yvt/zig-armv8m-test) Example Zig-based app for Armv8-M + TrustZone
+- [ZeeBoppityZagZiggity/ZBZZ.OS](https://github.com/ZeeBoppityZagZiggity/ZBZZ.OS) An operating system built with RISCV and Zig
