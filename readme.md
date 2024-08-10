@@ -112,6 +112,7 @@
 - [kprotty/zap](https://github.com/kprotty/zap) A collection of zig libraries which provide interfaces over the system for writing high performance applications
 - [mlarouche/zigimg](https://github.com/mlarouche/zigimg) Zig library for reading and writing different image formats
 - [ziglibs/known-folders](https://github.com/ziglibs/known-folders) Provides access to well-known folders across several operating systems
+- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal) Image processing library in Zig
 
 ## Network
 - [connectFree/ZigZag](https://github.com/connectFree/ZigZag) Noise Framework implementation in Zig Language for use in EVER/IP and WireGuard
