@@ -112,6 +112,7 @@
 - [kprotty/zap](https://github.com/kprotty/zap) A collection of zig libraries which provide interfaces over the system for writing high performance applications
 - [mlarouche/zigimg](https://github.com/mlarouche/zigimg) Zig library for reading and writing different image formats
 - [ziglibs/known-folders](https://github.com/ziglibs/known-folders) Provides access to well-known folders across several operating systems
+- [zigcord](https://codeberg.org/lipfang/zigcord) : Typed Discord API for Zig
 
 ## Network
 - [connectFree/ZigZag](https://github.com/connectFree/ZigZag) Noise Framework implementation in Zig Language for use in EVER/IP and WireGuard
@@ -124,6 +125,7 @@
 - [Vexu/routez](https://github.com/Vexu/routez) Http server for Zig
 - [Vexu/zuri](https://github.com/Vexu/zuri) URI parser for Zig
 - [remeh/statsd-zig](https://github.com/remeh/statsd-zig) Basic DogStatsD UDP server
+- [weebsocket](https://codeberg.org/lipfang/weebsocket) Websocket client for Zig, with minimal allocation and a `std.http`-like API
 
 ## System tools
 - [pbui-project/pbui-main](https://github.com/pbui-project/pbui-main) BSD/Linux core utilities written in Zig
