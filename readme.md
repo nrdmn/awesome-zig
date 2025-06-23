@@ -173,6 +173,7 @@
 - [andrewrk/lua-in-the-browser](https://github.com/andrewrk/lua-in-the-browser) using zig to build lua for webassembly
 - [fengb/fundude](https://github.com/fengb/fundude) Gameboy emulator: Zig -> wasm
 - [fengb/zee_alloc](https://github.com/fengb/zee_alloc) tiny Zig allocator primarily targeting WebAssembly
+- [floscodes/zerve](https://github.com/floscodes/zerve) simple framework for writing web services in zig
 - [gernest/url](https://github.com/gernest/url)
 - [kivikakk/htmlentities.zig](https://github.com/kivikakk/htmlentities.zig) HTML5 entity data.
 - [meheleventyone/zig-wasm-test](https://github.com/meheleventyone/zig-wasm-test) A minimal Web Assembly example using Zig's build system.
