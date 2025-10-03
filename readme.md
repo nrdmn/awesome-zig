@@ -154,6 +154,7 @@
 ## Parser
 - [darithorn/zig-toml](https://github.com/darithorn/zig-toml) A TOML parser written in Zig
 - [ducdetronquito/hppy](https://github.com/ducdetronquito/hppy) The happy HTML parser ᕕ( ᐛ )ᕗ
+- [Ferki-git-creator/jsmn_zig](https://github.com/Ferki-git-creator/jsmn_zig) JSMN-inspired JSON tokenizer with 4-byte compact tokens (80% memory savings), zero-copy streaming, and hybrid stack/heap allocation
 - [gernest/url](https://github.com/gernest/url)
 - [goto-bus-stop/ziguid](https://github.com/goto-bus-stop/ziguid) GUID parsing/stringifying with zig
 - [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) Simple command line argument parsing library
