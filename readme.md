@@ -126,6 +126,8 @@
 - [remeh/statsd-zig](https://github.com/remeh/statsd-zig) Basic DogStatsD UDP server
 
 ## System tools
+- [bad-antics/nullsec-zigscan](https://github.com/bad-antics/nullsec-zigscan) Binary entropy analyzer for detecting packed/encrypted sections
+- [bad-antics/nullsec-memguard](https://github.com/bad-antics/nullsec-memguard) Memory protection monitor detecting W+X regions, shellcode injection, and memory corruption vulnerabilities
 - [pbui-project/pbui-main](https://github.com/pbui-project/pbui-main) BSD/Linux core utilities written in Zig
 - [hspak/brightnessztl](https://github.com/hspak/brightnessztl) A CLI to control device backlight
 - [thejoshwolfe/hexdump-zip](https://github.com/thejoshwolfe/hexdump-zip) produce an annotated hexdump of a zipfile
