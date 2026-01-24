@@ -125,6 +125,7 @@
 - [Vexu/zuri](https://github.com/Vexu/zuri) URI parser for Zig
 - [remeh/statsd-zig](https://github.com/remeh/statsd-zig) Basic DogStatsD UDP server
 
+- [bad-antics/nullsec-zigcrypt](https://github.com/bad-antics/nullsec-zigcrypt) Zig-native cryptographic library with hash functions, ciphers, and security primitives for systems programming
 ## System tools
 - [pbui-project/pbui-main](https://github.com/pbui-project/pbui-main) BSD/Linux core utilities written in Zig
 - [hspak/brightnessztl](https://github.com/hspak/brightnessztl) A CLI to control device backlight
