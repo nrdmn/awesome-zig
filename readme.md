@@ -136,6 +136,8 @@
 - [belse-de/zig-tut](https://github.com/belse-de/zig-tut) A collection of small projects and tutorials to learn ZIG; may it be inspiration for others as well.
 - [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) Zootdeck Fediverse GTK Desktop Reader
 - [fengb/zig-protobuf](https://github.com/fengb/zig-protobuf)
+- [forketyfork/architect](https://github.com/forketyfork/architect) A flexible terminal grid for multi-agent AI workflows.
+- [forketyfork/zwanzig](https://github.com/forketyfork/zwanzig) A static analyzer for Zig with CFG-based checks for leaks, double-free, optional unwrap, and stack escapes.
 - [gernest/base32](https://github.com/gernest/base32) base32 encoding/decoding for ziglang
 - [gernest/hoodie](https://github.com/gernest/hoodie) pure zig language server with swagger and bling bling
 - [Hejsil/zig-gc](https://github.com/Hejsil/zig-gc) A super simple mark-and-sweep garbage collector written in Zig.
