@@ -126,6 +126,7 @@
 - [remeh/statsd-zig](https://github.com/remeh/statsd-zig) Basic DogStatsD UDP server
 
 ## System tools
+- [midasdf/zt](https://github.com/midasdf/zt) A minimal, ultra-fast terminal emulator with fbdev and X11 backends, 59K+ embedded glyphs, and zero external runtime dependencies.
 - [pbui-project/pbui-main](https://github.com/pbui-project/pbui-main) BSD/Linux core utilities written in Zig
 - [hspak/brightnessztl](https://github.com/hspak/brightnessztl) A CLI to control device backlight
 - [thejoshwolfe/hexdump-zip](https://github.com/thejoshwolfe/hexdump-zip) produce an annotated hexdump of a zipfile
