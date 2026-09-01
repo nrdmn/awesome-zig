@@ -121,6 +121,7 @@
 - [lun-4/ziget](https://github.com/lun-4/ziget) simple wget in zig without libc
 - [marler8997/netpunch](https://github.com/marler8997/netpunch) Outbound proxy protocol
 - [mstroecker/zig-robotstxt](https://github.com/mstroecker/zig-robotstxt) Lightweight docker image for serving a disallow robots.txt file using the zig programming language.
+- [vmvarela/oci.zig](https://github.com/vmvarela/oci.zig) Pure-Zig client library for the OCI Distribution Specification v1.1: pull/push manifests and blobs (streaming, chunked, partial-range), auth, tag listing, cross-repo blob mount, manifest deletion, and the referrers API.
 - [Vexu/routez](https://github.com/Vexu/routez) Http server for Zig
 - [Vexu/zuri](https://github.com/Vexu/zuri) URI parser for Zig
 - [remeh/statsd-zig](https://github.com/remeh/statsd-zig) Basic DogStatsD UDP server
